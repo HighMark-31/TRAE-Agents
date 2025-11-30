@@ -7,6 +7,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 
 ---
 [![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/USERNAME/REPO_NAME/stargazers)
+<img width="1454" height="884" alt="image" src="https://github.com/user-attachments/assets/a9779bec-ae62-4769-94f2-996eabbaf01d" />
 
 
 ## 📍​ Agent List (Click to Install) 📍​
