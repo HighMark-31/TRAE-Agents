@@ -37,9 +37,9 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 17. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
-15. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
-16. [FiveM Architect](https://s.trae.ai/a/39261a)
-17. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
+18. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
+19. [FiveM Architect](https://s.trae.ai/a/39261a)
+20. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
 
 ---
 
