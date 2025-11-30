@@ -6,7 +6,8 @@ These agents act as real specialists and capable of generating code, fixing issu
 Designed for developers, engineers, designers, automation lovers, and tech teams who want **speed, precision, and expert-level assistance** in a single click.
 
 ---
-[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/USERNAME/REPO_NAME/stargazers)
+[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/USERNAME/REPO_NAME/stargazers) [![Hits](https://hits.sh/HighMark-31)](https://hits.sh/HighMark-31/TRAE-Agents/)
+
 <img width="1454" height="884" alt="image" src="https://github.com/user-attachments/assets/a9779bec-ae62-4769-94f2-996eabbaf01d" />
 
 
