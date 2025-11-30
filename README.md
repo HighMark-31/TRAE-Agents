@@ -25,17 +25,18 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 7. [Database Architect](https://s.trae.ai/a/48f614)
 8. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
 9. [Mobile App Architect](https://s.trae.ai/a/236410)
+10. [Stack Connector](https://s.trae.ai/a/249aeb)
 
 ### 🫧​ Automation, Quality & Performance
-10. [ML Architect](https://s.trae.ai/a/f5e606)
-11. [Automation Expert](https://s.trae.ai/a/6fc0a2)
-12. [Security Sentinel](https://s.trae.ai/a/06a73f)
-13. [SEO Strategist](https://s.trae.ai/a/99b40d)
+11. [ML Architect](https://s.trae.ai/a/f5e606)
+12. [Automation Expert](https://s.trae.ai/a/6fc0a2)
+13. [Security Sentinel](https://s.trae.ai/a/06a73f)
+14. [SEO Strategist](https://s.trae.ai/a/99b40d)
 
 ### 👾​ Game & Modding Development​
-14. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
-15. [FiveM Architect](https://s.trae.ai/a/39261a)
-16. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
+15. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
+16. [FiveM Architect](https://s.trae.ai/a/39261a)
+17. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
 
 ---
 
@@ -65,6 +66,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **API Architect** – Python/Node API design, routing, integration & best practices.
 * **Low-Level Architect** – C, Assembly, binary-level reasoning.
 * **Mobile App Architect** – Flutter, React Native, Android/iOS workflows.
+* **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
 
 ### Automation, Quality & Performance
 
