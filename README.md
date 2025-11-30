@@ -25,13 +25,16 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 7. [Database Architect](https://s.trae.ai/a/48f614)
 8. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
 9. [Mobile App Architect](https://s.trae.ai/a/236410)
-10. [Stack Connector](https://s.trae.ai/a/249aeb)
+10. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Stack Connector](https://s.trae.ai/a/249aeb)
 
 ### 🫧​ Automation, Quality & Performance
 11. [ML Architect](https://s.trae.ai/a/f5e606)
 12. [Automation Expert](https://s.trae.ai/a/6fc0a2)
 13. [Security Sentinel](https://s.trae.ai/a/06a73f)
 14. [SEO Strategist](https://s.trae.ai/a/99b40d)
+15. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [DOC Writer](https://s.trae.ai/a/f1c66e)
+16. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Testing Architect](https://s.trae.ai/a/1223bc)
+17. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
 15. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
@@ -66,23 +69,23 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **API Architect** – Python/Node API design, routing, integration & best practices.
 * **Low-Level Architect** – C, Assembly, binary-level reasoning.
 * **Mobile App Architect** – Flutter, React Native, Android/iOS workflows.
-* **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
 
 ### Automation, Quality & Performance
 
+* **ML Architect** – Model creation, training, fine-tuning, evaluation.
 * **Automation Expert** – Scripts, pipelines, workflow automation.
 * **Security Sentinel** – Vulnerability checks, security hardening, best practices.
 * **SEO Strategist** – Technical SEO, content structure, ranking improvements.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Documentation Writer** - Produces clear, concise, and consistent docs for codebases, APIs, and systems.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Testing Architect** - Designs unit, integration, and E2E tests to ensure stability, coverage, and prevent regressions.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Error Fixer** – Detects and fixes code errors across languages and frameworks, ensuring stability and smooth integration.
 
 ### Game & Modding Development
 
 * **Minecraft Architect**
 * **FiveM Architect**
 * **Roblox Architect**
-
-### AI & Machine Learning
-
-* **ML Architect** – Model creation, training, fine-tuning, evaluation.
 
 ---
 
