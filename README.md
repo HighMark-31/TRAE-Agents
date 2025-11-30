@@ -1,7 +1,7 @@
-# TRAE Agents Collection
+# [TRAE](https://www.trae.ai/) Agents Collection
 
 A powerful collection of **expert-level TRAE Agents**, crafted to enhance every stage of modern software development.
-These agents act as real specialists — capable of generating code, fixing issues, optimizing workflows, auditing security, and accelerating complex tasks across multiple stacks.
+These agents act as real specialists and capable of generating code, fixing issues, optimizing workflows, auditing security, and accelerating complex tasks across multiple stacks.
 
 Designed for developers, engineers, designers, automation lovers, and tech teams who want **speed, precision, and expert-level assistance** in a single click.
 
