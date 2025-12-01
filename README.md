@@ -41,6 +41,9 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 19. [FiveM Architect](https://s.trae.ai/a/39261a)
 20. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
 
+### 🔱​ Misc
+21. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Photo Coder](https://s.trae.ai/a/888523)
+22. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
 ---
 
 ## ⚙️ Installation (Super Easy)
@@ -87,6 +90,9 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **FiveM Architect**
 * **Roblox Architect**
 
+### Misc
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
 ---
 
 ## Contributing
