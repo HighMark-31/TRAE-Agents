@@ -91,7 +91,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Minecraft Architect**
 * **FiveM Architect**
 * **Roblox Architect**
-* **Unity Architect**
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Unity Architect**
 
 ### Misc
 * <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
