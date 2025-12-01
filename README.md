@@ -43,9 +43,9 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 21. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
-21. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Photo Coder](https://s.trae.ai/a/888523)
-22. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
-23. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8) 
+22. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Photo Coder](https://s.trae.ai/a/888523)
+23. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
+24. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8) 
 ---
 
 ## ⚙️ Installation (Super Easy)
