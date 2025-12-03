@@ -6,7 +6,8 @@ These agents act as real specialists and capable of generating code, fixing issu
 Designed for developers, engineers, designers, automation lovers, and tech teams who want **speed, precision, and expert-level assistance** in a single click.
 
 ---
-[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents)
+[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md)
+
 
 <img width="1454" height="884" alt="image" src="https://github.com/user-attachments/assets/a9779bec-ae62-4769-94f2-996eabbaf01d" />
 
@@ -40,12 +41,13 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 18. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
 19. [FiveM Architect](https://s.trae.ai/a/39261a)
 20. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
-21. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Unity Architect](https://s.trae.ai/a/b00751)
+21. [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
 22. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Photo Coder](https://s.trae.ai/a/888523)
 23. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
-24. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8) 
+24. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8)
+25. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Stack Convertor](https://s.trae.ai/a/d31236) 
 ---
 
 ## ⚙️ Installation (Super Easy)
@@ -53,6 +55,13 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 1. **Install TRAE** if you haven’t already.
 2. Open **TRAE**.
 3. Click on any link in the list below and TRAE will auto-import the agent directly into your IDE.
+
+---
+
+## 🤔 How They Were Created
+
+Curious about **how I built these agents**?  
+You can check out the full walkthrough and see the process step by step **here:** [HOW_I_HAVE_CREATED.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md)
 
 ---
 
@@ -91,12 +100,13 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Minecraft Architect**
 * **FiveM Architect**
 * **Roblox Architect**
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Unity Architect**
+* **Unity Architect**
 
 ### Misc
 * <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
 * <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
-* **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
 ---
 
 ## Contributing
