@@ -48,6 +48,18 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 23. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
 24. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8)
 25. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Stack Convertor](https://s.trae.ai/a/d31236) 
+
+---
+
+## 🌐 Full Language Agents Library
+
+Looking for language-specific TRAE agents (C, C++, C#, Java, Kotlin, Python, Go, Rust, and more)?
+
+You can find the **complete collection here:**  
+👉 [ALL_LANGUAGE.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/ALL_LANGUAGE.md)
+
+This file contains **every language-exclusive TRAE Agent** each with its own specialized prompt and direct import link.
+
 ---
 
 ## ⚙️ Installation (Super Easy)
