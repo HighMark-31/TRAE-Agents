@@ -10,34 +10,24 @@ These agents provide **maximum accuracy**, strict best practices, and language-s
 
 ## 📍 **Specialized Agent List (Click to Install)**
 
----
-
 ## 🟦 **C Family**
 
 * **[C Architect](https://s.trae.ai/a/cea6bd)**
 * **[C++ Architect](https://s.trae.ai/a/d99037)**
 * **[C# Architect](https://s.trae.ai/a/703b31)**
 
----
-
 ## ☕ **JVM & Enterprise**
 
 * **[Java Architect](https://s.trae.ai/a/564245)**
 * **[Kotlin Architect](https://s.trae.ai/a/481fc4)**
 
----
-
 ## 🐍 **Python**
 
 * **[Python Architect](https://s.trae.ai/a/97e216)**
 
----
-
 ## 🦀 **Rust**
 
 * **[Rust Architect](https://s.trae.ai/a/b66f85)**
-
----
 
 ## 🌀 **Go**
 
@@ -52,36 +42,26 @@ These agents provide **maximum accuracy**, strict best practices, and language-s
 * **JavaScript Architect**
 * **TypeScript Architect**
 
----
-
 ## 🎯 **Web Backends**
 
 * **PHP Architect**
 * **Ruby Architect**
-
----
 
 ## 🧱 **Low-Level / Systems**
 
 * **Assembly Architect**
 * **Zig Architect**
 
----
-
 ## 📱 **Mobile & Apple**
 
 * **Swift Architect**
 * **Objective-C Architect**
-
----
 
 ## 🏗️ **Functional**
 
 * **Haskell Architect**
 * **Elixir Architect**
 * **Clojure Architect**
-
----
 
 ## Installation (1 Click)
 
