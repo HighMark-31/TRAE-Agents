@@ -18,36 +18,39 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 1. [General Coordinator](https://s.trae.ai/a/edd20e)
 2. [Code Optimizer](https://s.trae.ai/a/b0fba2)
 3. [Code Refactorer](https://s.trae.ai/a/dd7edb)
+4. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Dependency Manager](https://s.trae.ai/a/93e6af)
 
 ### 🖥️​ Development & Engineering
-4. [Frontend Expert](https://s.trae.ai/a/85f62b)
-5. [Backend Architect](https://s.trae.ai/a/488daa)
-6. [API Architect](https://s.trae.ai/a/5dd5b0)
-7. [Database Architect](https://s.trae.ai/a/48f614)
-8. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
-9. [Mobile App Architect](https://s.trae.ai/a/236410)
-10. [Stack Connector](https://s.trae.ai/a/249aeb)
+5. [Frontend Expert](https://s.trae.ai/a/85f62b)
+6. [Backend Architect](https://s.trae.ai/a/488daa)
+7. [API Architect](https://s.trae.ai/a/5dd5b0)
+8. [Database Architect](https://s.trae.ai/a/48f614)
+9. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
+10. [Mobile App Architect](https://s.trae.ai/a/236410)
+11. [Stack Connector](https://s.trae.ai/a/249aeb)
+12. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Designer Architect](https://s.trae.ai/a/66c90c)
 
 ### 🫧​ Automation, Quality & Performance
-11. [ML Architect](https://s.trae.ai/a/f5e606)
-12. [Automation Expert](https://s.trae.ai/a/6fc0a2)
-13. [Security Sentinel](https://s.trae.ai/a/06a73f)
-14. [SEO Strategist](https://s.trae.ai/a/99b40d)
-15. [DOC Writer](https://s.trae.ai/a/f1c66e)
-16. [Testing Architect](https://s.trae.ai/a/1223bc)
-17. [Error Fixer](https://s.trae.ai/a/ceefff)
+13. [ML Architect](https://s.trae.ai/a/f5e606)
+14. [Automation Expert](https://s.trae.ai/a/6fc0a2)
+15. [Security Sentinel](https://s.trae.ai/a/06a73f)
+16. [SEO Strategist](https://s.trae.ai/a/99b40d)
+17. [DOC Writer](https://s.trae.ai/a/f1c66e)
+18. [Testing Architect](https://s.trae.ai/a/1223bc)
+19. [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
-18. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
-19. [FiveM Architect](https://s.trae.ai/a/39261a)
-20. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
-21. [Unity Architect](https://s.trae.ai/a/b00751)
+20. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
+21. [FiveM Architect](https://s.trae.ai/a/39261a)
+22. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
+23. [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
-22. [Photo Coder](https://s.trae.ai/a/888523)
-23. [Project Suggester](https://s.trae.ai/a/bf9976)
-24. [Rules Builder](https://s.trae.ai/a/8d10a8)
-25. [Stack Convertor](https://s.trae.ai/a/d31236) 
+24. [Photo Coder](https://s.trae.ai/a/888523)
+25. [Project Suggester](https://s.trae.ai/a/bf9976)
+26. [Rules Builder](https://s.trae.ai/a/8d10a8)
+27. [Stack Convertor](https://s.trae.ai/a/d31236)
+28. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Neural Overclocker](https://s.trae.ai/a/ba37f1)
 
 ---
 
@@ -86,6 +89,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **General Coordinator** – Oversees everything, orchestrates multi-agent workflows, ensures completeness & quality.
 * **Code Optimizer** – Deep code analysis, auto-fixes, performance improvements, refactoring.
 * **Code Refactorer** – Clean, structured, maintainable rewrite of any messy or outdated codebase.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Dependency Manager** - Manages, updates, and optimizes project dependencies, ensuring compatibility, performance, and safe upgrades.
 
 ### Development & Engineering
 
@@ -96,6 +100,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Low-Level Architect** – C, Assembly, binary-level reasoning.
 * **Mobile App Architect** – Flutter, React Native, Android/iOS workflows.
 * **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Designer Architect** - Expert in UI/UX, design systems, and interactive components, delivering clear, accessible, and developer-ready interface specifications.
 
 ### Automation, Quality & Performance
 
@@ -119,6 +124,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
 * **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
 * **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Neural Overclocker** - Boosts entry-level AI models to high-level performance, optimizing reasoning, coding, and output quality across all tasks. Idea and credits by [Roman](https://t.me/VibeCodePrompterSystem)
 ---
 
 ## Contributing
