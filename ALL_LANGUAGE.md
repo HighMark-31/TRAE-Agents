@@ -33,35 +33,32 @@ These agents provide **maximum accuracy**, strict best practices, and language-s
 
 * **[Go Architect](https://s.trae.ai/a/60dcef)**
 
-## COMING SOON OTHER LANGUAGES
-
 ## 🧩 **JavaScript / TypeScript**
 
 *(For pure language-only tasks, not full-stack)*
 
-* **JavaScript Architect**
-* **TypeScript Architect**
+* **[JavaScript Architect](https://s.trae.ai/a/f5d273)**
+* **[TypeScript Architect](https://s.trae.ai/a/400921)**
 
 ## 🎯 **Web Backends**
 
-* **PHP Architect**
-* **Ruby Architect**
+* **[PHP Architect](https://s.trae.ai/a/8bc882)**
+* **[Ruby Architect](https://s.trae.ai/a/6823c0)**
 
 ## 🧱 **Low-Level / Systems**
 
-* **Assembly Architect**
-* **Zig Architect**
+* **[Assembly Architect](https://s.trae.ai/a/22e270)**
+* **[Zig Architect](https://s.trae.ai/a/b5cac8)**
 
 ## 📱 **Mobile & Apple**
 
-* **Swift Architect**
-* **Objective-C Architect**
+* **[Swift Architect](https://s.trae.ai/a/e38ce5)**
+* **[Objective-C Architect](https://s.trae.ai/a/0fba6d)**
 
 ## 🏗️ **Functional**
 
-* **Haskell Architect**
-* **Elixir Architect**
-* **Clojure Architect**
+* **[Regex Architect](https://s.trae.ai/a/777011)**
+* **[JSON Architect](https://s.trae.ai/a/53a239)**
 
 ## Installation (1 Click)
 
