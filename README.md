@@ -35,7 +35,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 14. [SEO Strategist](https://s.trae.ai/a/99b40d)
 15. [DOC Writer](https://s.trae.ai/a/f1c66e)
 16. [Testing Architect](https://s.trae.ai/a/1223bc)
-17. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Error Fixer](https://s.trae.ai/a/ceefff)
+17. [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
 18. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
@@ -44,10 +44,10 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 21. [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
-22. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Photo Coder](https://s.trae.ai/a/888523)
-23. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Project Suggester](https://s.trae.ai/a/bf9976)
-24. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Rules Builder](https://s.trae.ai/a/8d10a8)
-25. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Stack Convertor](https://s.trae.ai/a/d31236) 
+22. [Photo Coder](https://s.trae.ai/a/888523)
+23. [Project Suggester](https://s.trae.ai/a/bf9976)
+24. [Rules Builder](https://s.trae.ai/a/8d10a8)
+25. [Stack Convertor](https://s.trae.ai/a/d31236) 
 
 ---
 
@@ -56,7 +56,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 Looking for language-specific TRAE agents (C, C++, C#, Java, Kotlin, Python, Go, Rust, and more)?
 
 You can find the **complete collection here:**  
-👉 [ALL_LANGUAGE.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/ALL_LANGUAGE.md)
+<img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [ALL_LANGUAGE.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/ALL_LANGUAGE.md)
 
 This file contains **every language-exclusive TRAE Agent** each with its own specialized prompt and direct import link.
 
@@ -105,7 +105,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **SEO Strategist** – Technical SEO, content structure, ranking improvements.
 * **Documentation Writer** - Produces clear, concise, and consistent docs for codebases, APIs, and systems.
 * **Testing Architect** - Designs unit, integration, and E2E tests to ensure stability, coverage, and prevent regressions.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Error Fixer** – Detects and fixes code errors across languages and frameworks, ensuring stability and smooth integration.
+* **Error Fixer** – Detects and fixes code errors across languages and frameworks, ensuring stability and smooth integration.
 
 ### Game & Modding Development
 
@@ -115,10 +115,10 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Unity Architect**
 
 ### Misc
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
+* **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
+* **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
+* **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
+* **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
 ---
 
 ## Contributing
