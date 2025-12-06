@@ -27,30 +27,32 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 8. [Database Architect](https://s.trae.ai/a/48f614)
 9. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
 10. [Mobile App Architect](https://s.trae.ai/a/236410)
-11. [Stack Connector](https://s.trae.ai/a/249aeb)
-12. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Designer Architect](https://s.trae.ai/a/66c90c)
+11. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Windows App Architect](https://s.trae.ai/a/bd193e)
+12. [Stack Connector](https://s.trae.ai/a/249aeb)
+13. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Designer Architect](https://s.trae.ai/a/66c90c)
 
 ### 🫧​ Automation, Quality & Performance
-13. [ML Architect](https://s.trae.ai/a/f5e606)
-14. [Automation Expert](https://s.trae.ai/a/6fc0a2)
-15. [Security Sentinel](https://s.trae.ai/a/06a73f)
-16. [SEO Strategist](https://s.trae.ai/a/99b40d)
-17. [DOC Writer](https://s.trae.ai/a/f1c66e)
-18. [Testing Architect](https://s.trae.ai/a/1223bc)
-19. [Error Fixer](https://s.trae.ai/a/ceefff)
+14. [ML Architect](https://s.trae.ai/a/f5e606)
+15. [Automation Expert](https://s.trae.ai/a/6fc0a2)
+16. [Security Sentinel](https://s.trae.ai/a/06a73f)
+17. [SEO Strategist](https://s.trae.ai/a/99b40d)
+18. [DOC Writer](https://s.trae.ai/a/f1c66e)
+19. [Testing Architect](https://s.trae.ai/a/1223bc)
+20. [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
-20. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
-21. [FiveM Architect](https://s.trae.ai/a/39261a)
-22. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
-23. [Unity Architect](https://s.trae.ai/a/b00751)
+21. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
+22. [FiveM Architect](https://s.trae.ai/a/39261a)
+23. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
+24. [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
-24. [Photo Coder](https://s.trae.ai/a/888523)
-25. [Project Suggester](https://s.trae.ai/a/bf9976)
-26. [Rules Builder](https://s.trae.ai/a/8d10a8)
-27. [Stack Convertor](https://s.trae.ai/a/d31236)
-28. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Neural Overclocker](https://s.trae.ai/a/ba37f1)
+25. [Photo Coder](https://s.trae.ai/a/888523)
+26. [Project Suggester](https://s.trae.ai/a/bf9976)
+27. [Rules Builder](https://s.trae.ai/a/8d10a8)
+28. [Stack Convertor](https://s.trae.ai/a/d31236)
+29. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Neural Overclocker](https://s.trae.ai/a/ba37f1)
+30. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Data Filler](https://s.trae.ai/a/53b11f)
 
 ---
 
@@ -99,6 +101,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **API Architect** – Python/Node API design, routing, integration & best practices.
 * **Low-Level Architect** – C, Assembly, binary-level reasoning.
 * **Mobile App Architect** – Flutter, React Native, Android/iOS workflows.
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Windows App Architect** - Nuild Windows desktop apps using C#, .NET, WPF, WinUI, and modern Microsoft standards. Perfect for UI, architecture, integration, and full app development.
 * **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
 * <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Designer Architect** - Expert in UI/UX, design systems, and interactive components, delivering clear, accessible, and developer-ready interface specifications.
 
@@ -125,6 +128,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
 * **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
 * <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Neural Overclocker** - Boosts entry-level AI models to high-level performance, optimizing reasoning, coding, and output quality across all tasks. Idea and credits by [Roman](https://t.me/VibeCodePrompterSystem)
+* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Data Filler** - Replaces mock content with real, verified data, and adds UI elements when needed.
 ---
 
 ## Contributing
