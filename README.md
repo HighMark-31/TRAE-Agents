@@ -11,6 +11,31 @@ These agents act as real specialists and capable of generating code, fixing issu
 
 Designed for developers, engineers, designers, automation lovers, and tech teams who want **speed, precision, and expert-level assistance** in a single click.
 
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18+-61DAFB.svg?logo=react)](https://react.dev/)
+
+[![Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://github.com/HighMark-31/TRAE-Agents)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9B-lightgray.svg)](https://github.com/HighMark-31/TRAE-Agents)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HighMark-31/TRAE-Agents/pulls)
+
+</div>
+
+**Topics:** 
+![AI](https://img.shields.io/badge/AI-Agents-blueviolet) 
+![Automation](https://img.shields.io/badge/Automation-Workflow-orange) 
+![Development](https://img.shields.io/badge/Development-Tools-blue) 
+![Code Generation](https://img.shields.io/badge/Code%20Generation-Prompting-green) 
+![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-yellow) 
+![Security](https://img.shields.io/badge/Security-Auditing-red) 
+![Game Dev](https://img.shields.io/badge/Game%20Dev-Minecraft%2FUnity-important) 
+![Backend](https://img.shields.io/badge/Backend-API%20Design-lightblue) 
+![Frontend](https://img.shields.io/badge/Frontend-React%2FNext-blue)
+
 ---
 [![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md)
 
