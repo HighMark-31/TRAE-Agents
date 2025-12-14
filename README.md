@@ -14,14 +14,6 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18+-61DAFB.svg?logo=react)](https://react.dev/)
-
-[![Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://github.com/HighMark-31/TRAE-Agents)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9B-lightgray.svg)](https://github.com/HighMark-31/TRAE-Agents)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HighMark-31/TRAE-Agents/pulls)
 
 </div>
 
