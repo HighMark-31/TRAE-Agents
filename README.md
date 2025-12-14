@@ -177,7 +177,7 @@ Stay tuned! We're cooking up some incredible new agents that will take your prod
 * **Performance Profiler** - Deep performance analysis, bottleneck detection, memory optimization, and execution tracing across multiple languages and frameworks.
 * **[Link Coming Soon](#)**
 
-### 🌟 Coming in 2025
+### 🌟 Coming in 2026
 
 * **Blockchain Architect** - Smart contract development (Solidity, Rust), blockchain integration, Web3 standards, and DeFi protocols.
 * **AR/VR Experience Designer** - 3D models, AR/VR frameworks (WebXR, Unity, Unreal), spatial computing, and immersive UI.
