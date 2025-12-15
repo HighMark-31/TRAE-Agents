@@ -37,7 +37,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 1. [General Coordinator](https://s.trae.ai/a/edd20e)
 2. [Code Optimizer](https://s.trae.ai/a/b0fba2)
 3. [Code Refactorer](https://s.trae.ai/a/dd7edb)
-4. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Dependency Manager](https://s.trae.ai/a/93e6af)
+4. [Dependency Manager](https://s.trae.ai/a/93e6af)
 
 ### 🖥️​ Development & Engineering
 5. [Frontend Expert](https://s.trae.ai/a/85f62b)
@@ -46,33 +46,33 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 8. [Database Architect](https://s.trae.ai/a/48f614)
 9. [Low-Level Architect](https://s.trae.ai/a/dbf58a)
 10. [Mobile App Architect](https://s.trae.ai/a/236410)
-11. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Windows App Architect](https://s.trae.ai/a/bd193e)
+11. [Windows App Architect](https://s.trae.ai/a/bd193e)
 12. [Stack Connector](https://s.trae.ai/a/249aeb)
-13. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Designer Architect](https://s.trae.ai/a/66c90c)
-14. [WordPress Builder](https://s.trae.ai/a/aa37bc)
+13. [Designer Architect](https://s.trae.ai/a/66c90c)
+14. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [WordPress Builder](https://s.trae.ai/a/aa37bc)
 
 ### 🫧​ Automation, Quality & Performance
-14. [ML Architect](https://s.trae.ai/a/f5e606)
-15. [Automation Expert](https://s.trae.ai/a/6fc0a2)
-16. [Security Sentinel](https://s.trae.ai/a/06a73f)
-17. [SEO Strategist](https://s.trae.ai/a/99b40d)
-18. [DOC Writer](https://s.trae.ai/a/f1c66e)
-19. [Testing Architect](https://s.trae.ai/a/1223bc)
-20. [Error Fixer](https://s.trae.ai/a/ceefff)
+15. [ML Architect](https://s.trae.ai/a/f5e606)
+16. [Automation Expert](https://s.trae.ai/a/6fc0a2)
+17. [Security Sentinel](https://s.trae.ai/a/06a73f)
+18. [SEO Strategist](https://s.trae.ai/a/99b40d)
+19. [DOC Writer](https://s.trae.ai/a/f1c66e)
+20. [Testing Architect](https://s.trae.ai/a/1223bc)
+21. [Error Fixer](https://s.trae.ai/a/ceefff)
 
 ### 👾​ Game & Modding Development​
-21. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
-22. [FiveM Architect](https://s.trae.ai/a/39261a)
-23. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
-24. [Unity Architect](https://s.trae.ai/a/b00751)
+22. [Minecraft Architect](https://s.trae.ai/a/ef01c5)
+23. [FiveM Architect](https://s.trae.ai/a/39261a)
+24. [Roblox Architect](https://s.trae.ai/a/4a3fa4)
+25. [Unity Architect](https://s.trae.ai/a/b00751)
 
 ### 🔱​ Misc
-25. [Photo Coder](https://s.trae.ai/a/888523)
-26. [Project Suggester](https://s.trae.ai/a/bf9976)
-27. [Rules Builder](https://s.trae.ai/a/8d10a8)
-28. [Stack Convertor](https://s.trae.ai/a/d31236)
-29. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Neural Overclocker](https://s.trae.ai/a/ba37f1)
-30. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Data Filler](https://s.trae.ai/a/53b11f)
+26. [Photo Coder](https://s.trae.ai/a/888523)
+27. [Project Suggester](https://s.trae.ai/a/bf9976)
+28. [Rules Builder](https://s.trae.ai/a/8d10a8)
+29. [Stack Convertor](https://s.trae.ai/a/d31236)
+30. [Neural Overclocker](https://s.trae.ai/a/ba37f1)
+31. [Data Filler](https://s.trae.ai/a/53b11f)
 
 ---
 
@@ -81,7 +81,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 Looking for language-specific TRAE agents (C, C++, C#, Java, Kotlin, Python, Go, Rust, and more)?
 
 You can find the **complete collection here:**  
-<img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [ALL_LANGUAGE.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/ALL_LANGUAGE.md)
+[ALL_LANGUAGE.md](https://github.com/HighMark-31/TRAE-Agents/blob/main/ALL_LANGUAGE.md)
 
 This file contains **every language-exclusive TRAE Agent** each with its own specialized prompt and direct import link.
 
@@ -111,7 +111,7 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **General Coordinator** – Oversees everything, orchestrates multi-agent workflows, ensures completeness & quality.
 * **Code Optimizer** – Deep code analysis, auto-fixes, performance improvements, refactoring.
 * **Code Refactorer** – Clean, structured, maintainable rewrite of any messy or outdated codebase.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Dependency Manager** - Manages, updates, and optimizes project dependencies, ensuring compatibility, performance, and safe upgrades.
+* **Dependency Manager** - Manages, updates, and optimizes project dependencies, ensuring compatibility, performance, and safe upgrades.
 
 ### Development & Engineering
 
@@ -121,9 +121,10 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **API Architect** – Python/Node API design, routing, integration & best practices.
 * **Low-Level Architect** – C, Assembly, binary-level reasoning.
 * **Mobile App Architect** – Flutter, React Native, Android/iOS workflows.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Windows App Architect** - Nuild Windows desktop apps using C#, .NET, WPF, WinUI, and modern Microsoft standards. Perfect for UI, architecture, integration, and full app development.
+* **Windows App Architect** - Nuild Windows desktop apps using C#, .NET, WPF, WinUI, and modern Microsoft standards. Perfect for UI, architecture, integration, and full app development.
 * **Stack Connector** – Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Designer Architect** - Expert in UI/UX, design systems, and interactive components, delivering clear, accessible, and developer-ready interface specifications.
+* **Designer Architect** - Expert in UI/UX, design systems, and interactive components, delivering clear, accessible, and developer-ready interface specifications.
+* **WordPress Builder** – Theme & plugin development, Gutenberg blocks, performance, UX & best practices.
 
 ### Automation, Quality & Performance
 
@@ -147,8 +148,8 @@ This repository includes **fully specialized agents**, each trained for a specif
 * **Project Suggester** – Analyzes the project and suggests features, improvements, and optimizations for better workflows.
 * **Rules Builder** - Creates project rules through guided questions and saves them into .trae/rules/project_rules.md.
 * **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> **Neural Overclocker** - Boosts entry-level AI models to high-level performance, optimizing reasoning, coding, and output quality across all tasks. Idea and credits by [Roman](https://t.me/VibeCodePrompterSystem)
-* <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;">  **Data Filler** - Replaces mock content with real, verified data, and adds UI elements when needed.
+* **Neural Overclocker** - Boosts entry-level AI models to high-level performance, optimizing reasoning, coding, and output quality across all tasks. Idea and credits by [Roman](https://t.me/VibeCodePrompterSystem)
+* **Data Filler** - Replaces mock content with real, verified data, and adds UI elements when needed.
 ---
 ## 🚀 Coming Soon - Next Generation Agents
 
