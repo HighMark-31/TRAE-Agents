@@ -15,6 +15,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 
 ---
 [![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md) 
+
 **Topics:** 
 ![AI](https://img.shields.io/badge/AI-Agents-blueviolet) 
 ![Automation](https://img.shields.io/badge/Automation-Workflow-orange) 
