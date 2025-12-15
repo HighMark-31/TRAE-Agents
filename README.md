@@ -11,12 +11,10 @@ These agents act as real specialists and capable of generating code, fixing issu
 
 Designed for developers, engineers, designers, automation lovers, and tech teams who want **speed, precision, and expert-level assistance** in a single click.
 
-<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-</div>
-
+---
+[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md) 
 **Topics:** 
 ![AI](https://img.shields.io/badge/AI-Agents-blueviolet) 
 ![Automation](https://img.shields.io/badge/Automation-Workflow-orange) 
@@ -27,9 +25,6 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 ![Game Dev](https://img.shields.io/badge/Game%20Dev-Minecraft%2FUnity-important) 
 ![Backend](https://img.shields.io/badge/Backend-API%20Design-lightblue) 
 ![Frontend](https://img.shields.io/badge/Frontend-React%2FNext-blue)
-
----
-[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md)
 
 
 <img width="1454" height="884" alt="image" src="https://github.com/user-attachments/assets/a9779bec-ae62-4769-94f2-996eabbaf01d" />
