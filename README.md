@@ -49,6 +49,7 @@ Designed for developers, engineers, designers, automation lovers, and tech teams
 11. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Windows App Architect](https://s.trae.ai/a/bd193e)
 12. [Stack Connector](https://s.trae.ai/a/249aeb)
 13. <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> [Designer Architect](https://s.trae.ai/a/66c90c)
+14. [WordPress Builder](https://s.trae.ai/a/aa37bc)
 
 ### 🫧​ Automation, Quality & Performance
 14. [ML Architect](https://s.trae.ai/a/f5e606)
