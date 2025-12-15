@@ -1,21 +1,64 @@
-MIT License
+TRAE Agents License Agreement
+Version 1.0
 
 Copyright (c) 2025 HighMark-IT
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. GRANT OF RIGHTS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are granted a non-exclusive, royalty-free right to use, copy, modify, and distribute this software and its associated documentation files (the "Software") for personal, educational, and commercial purposes, subject to the conditions outlined in this License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. CONDITIONS AND RESTRICTIONS
+
+A. Proper Attribution Required
+   - You MUST include clear attribution to this repository (https://github.com/HighMark-31/TRAE-Agents) and its author (HighMark-IT) in any derivative work, product, or project that incorporates or uses the Software or its agent structures.
+   - Attribution must be visible and accessible to end users.
+
+B. No Republication of Original Agents
+   - You MAY NOT republish, redistribute, or present the original agents or substantially unmodified versions of them as your own public collection, product suite, or template library.
+   - You cannot claim ownership of the "TRAE Agents" collection, the specific agent names, or the overall ecosystem as originally created in this repository.
+   - Minor modifications (e.g., parameter tweaks, prompt rewording) do not constitute a new original work and remain subject to this restriction.
+
+C. Prohibited Agent Rebranding
+   - You MAY NOT use the names "TRAE Agents", "TRAE-Agents", or the specific agent names (e.g., "General Coordinator", "Code Optimizer", "Security Sentinel") as if they were your original creation or branding.
+   - You must create distinctly different naming and branding if you publish agent collections based on this work.
+
+D. Original Works Permitted
+   - Creating your own agents or agent frameworks INSPIRED BY this project is permitted, provided they are:
+     1. Materially different in structure, purpose, or implementation
+     2. Given original names and branding
+     3. Properly attributed to this repository as inspiration
+
+3. COMMERCIAL USE
+
+You are permitted to use the Software in commercial products and services, provided that:
+   - You maintain proper attribution to this repository
+   - You do not republish the original agent collection as your own
+   - You do not claim ownership of the TRAE Agents ecosystem
+
+4. MODIFICATIONS AND DERIVATIVES
+
+You may modify the Software for your own use. If you distribute modified versions, you must:
+   - Clearly mark modifications as your own
+   - Maintain attribution to the original work
+   - Not present near-identical versions as original creations
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. ENFORCEMENT
+
+Breach of conditions outlined in Section 2 may result in:
+   - Cease and desist notices
+   - Requests for content removal from public platforms
+   - Legal action to enforce compliance with this License
+
+7. SEVERABILITY
+
+If any provision of this License is found to be unenforceable, the remaining provisions shall remain in full force and effect.
+
+8. GOVERNING LAW
+
+This License is governed by applicable copyright and intellectual property laws. The Copyright holder reserves the right to modify these terms with notice.
+
+By using this Software, you acknowledge that you have read, understood, and agree to be bound by all terms of this License.
