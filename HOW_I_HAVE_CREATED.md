@@ -5,7 +5,7 @@
 By popular demand and curiosity, I’m sharing **how I created the TRAE Agents** in this repository.  
 This document explains the creation and testing process in detail, walking through how each agent was designed, optimized, and validated to achieve expert-level performance across multiple domains.
 
-### > ℹ️​​ Tip: If you don't feel like reading the whole document, you can see the simplified workflow in the AI-generated image.
+### ℹ️​​ Tip: If you don't feel like reading the whole document, you can see the simplified workflow in the AI-generated image.
 
 <img width="1024" height="1536" alt="TRAE_Agents_Workflow" src="https://github.com/user-attachments/assets/c338c99a-9b3d-4b11-bbee-1c540a6c690c" />
 
@@ -39,8 +39,8 @@ This iterative process ensured that each prompt was precise, context-aware, and 
 After generating the agents, I performed **extensive testing** to guarantee consistent and high-quality outputs:  
 
 - **Test Rounds:**  
-  - 5x requests per agent to **Gemini 3 Pro** and **GPT-5 High**.  
-  - 10x requests per agent to **Gemini 2.5 Flash**.  
+  - 5x requests per agent to **Gemini 3 Pro** and **GPT-5.2**.  
+  - 10x requests per agent to **Gemini 3 Flash**.  
 
 - **Optimization:**  
   Any suboptimal response triggered a refinement cycle where either the **prompt system** or the **project rules** were adjusted for better results.  
