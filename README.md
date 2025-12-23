@@ -13,20 +13,27 @@ Perfect for developers, engineers, designers, automation enthusiasts, and tech t
 
 ---
 
-[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents) [Thanks for the support ❤️](https://github.com/HighMark-31/TRAE-Agents/blob/main/HOW_I_HAVE_CREATED.md)
+[![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents)
 
-**Topics:**
-![AI](https://img.shields.io/badge/AI-Agents-blueviolet)
-![Automation](https://img.shields.io/badge/Automation-Workflow-orange)
-![Development](https://img.shields.io/badge/Development-Tools-blue)
-![Code Generation](https://img.shields.io/badge/Code%20Generation-Prompting-green)
-![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-yellow)
-![Security](https://img.shields.io/badge/Security-Auditing-red)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-Minecraft%2FUnity-important)
-![Backend](https://img.shields.io/badge/Backend-API%20Design-lightblue)
-![Frontend](https://img.shields.io/badge/Frontend-React%2FNext-blue)
+<table>
+  <tr>
+    <td>
+      <a href="https://paypal.me/highmark31">
+        <img src="https://github.com/user-attachments/assets/b8ea8de2-bb0c-443b-80d6-2e7f71492942" width="400" alt="Donate to HighMark via PayPal" />
+      </a>
+    </td>
+    <td width="1rem"></td> 
+    <td>
+      <a href="https://github.com/HighMark-31/TRAE-Agents/blob/main/Thanks.md">
+        <img src="https://github.com/user-attachments/assets/dfe9bb0e-acbb-4b38-ba75-8b9cb9ced8e4" width="400" alt="Thanks for the support ❤️" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img width="1454" height="884" alt="image" src="https://github.com/user-attachments/assets/a9779bec-ae62-4769-94f2-996eabbaf01d" />
+
+
+
 
 ---
 
@@ -105,5 +112,3 @@ Check out the full walkthrough **here:** [HOW_I_HAVE_CREATED.md](https://github.
 
 Want to add a new agent or improve an existing one?
 Pull requests are welcome—just include a clear description of your changes and why you made them.
-
-Vuoi che lo faccia?
