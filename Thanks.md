@@ -17,8 +17,7 @@ This repository exists — and continues to grow — thanks to your feedback, yo
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/36362454-c1c3-4b4d-a344-3dfaf32944fa" width="480" />
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/b18a9e95-f0da-4bae-a2b3-46095d4cc23c" width="480" />
-
+  <img src="https://github.com/user-attachments/assets/c49c0bc4-095d-424d-b0df-1d983e86b909" width="480" />
 </div>
 
 ---
