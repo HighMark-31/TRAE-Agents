@@ -31,54 +31,50 @@ Perfect for developers, engineers, designers, automation enthusiasts, and tech t
   </tr>
 </table>
 
-
-
-
-
 ---
 
-## 📍 Agent List (Click to Install)
+## 📍 Agent List
 
-| Category                        | Agent Name            | Link                                |
-| ------------------------------- | --------------------- | ----------------------------------- |
-| 🤖 Core Intelligence            | General Coordinator   | <a href="https://s.trae.ai/a/edd20e" target="_blank">Click</a> |
-|                                 | Code Optimizer        | [Click](https://s.trae.ai/a/b0fba2) |
-|                                 | Code Refactorer       | [Click](https://s.trae.ai/a/dd7edb) |
-|                                 | Dependency Manager    | [Click](https://s.trae.ai/a/93e6af) |
-| 🖥️ Frontend & UI               | Frontend Expert       | [Click](https://s.trae.ai/a/85f62b) |
-|                                 | Designer Architect    | [Click](https://s.trae.ai/a/66c90c) |
-|                                 | WordPress Builder     | [Click](https://s.trae.ai/a/aa37bc) |
-| 💻 Backend & Architecture       | Backend Architect     | [Click](https://s.trae.ai/a/488daa) |
-|                                 | API Architect         | [Click](https://s.trae.ai/a/5dd5b0) |
-|                                 | Database Architect    | [Click](https://s.trae.ai/a/48f614) |
-|                                 | Low-Level Architect   | [Click](https://s.trae.ai/a/dbf58a) |
-|                                 | Mobile App Architect  | [Click](https://s.trae.ai/a/236410) |
-|                                 | Windows App Architect | [Click](https://s.trae.ai/a/bd193e) |
-|                                 | Stack Connector       | [Click](https://s.trae.ai/a/249aeb) |
-| 🫧 Automation, Performance & QA | ML Architect          | [Click](https://s.trae.ai/a/f5e606) |
-|                                 | Automation Expert     | [Click](https://s.trae.ai/a/6fc0a2) |
-|                                 | Security Sentinel     | [Click](https://s.trae.ai/a/06a73f) |
-|                                 | SEO Strategist        | [Click](https://s.trae.ai/a/99b40d) |
-|                                 | DOC Writer            | [Click](https://s.trae.ai/a/f1c66e) |
-|                                 | Testing Architect     | [Click](https://s.trae.ai/a/1223bc) |
-|                                 | Error Fixer           | [Click](https://s.trae.ai/a/ceefff) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Quantum Debugger      | [Click](https://s.trae.ai/a/46d5d9) |
-| 🔧 DevOps & Infrastructure      | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> DevOps Expert         | [Click](https://s.trae.ai/a/459f77) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Performance Profiler  | [Click](https://s.trae.ai/a/fda019) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Critical Consultant   | [Click](https://s.trae.ai/a/a4b8fa) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Penetration Tester    | [Click](https://s.trae.ai/a/1c4710) |
-| 🎮 Game & Modding               | Minecraft Architect   | [Click](https://s.trae.ai/a/ef01c5) |
-|                                 | FiveM Architect       | [Click](https://s.trae.ai/a/39261a) |
-|                                 | Roblox Architect      | [Click](https://s.trae.ai/a/4a3fa4) |
-|                                 | Unity Architect       | [Click](https://s.trae.ai/a/b00751) |
-| 📊 Analytics & Strategy         | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Copywriter Pro        | [Click](https://s.trae.ai/a/a80192) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Competitor Scout      | [Click](https://s.trae.ai/a/cf9376) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Content Strategist    | [Click](https://s.trae.ai/a/9fa6a4) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Growth Strategist     | [Click](https://s.trae.ai/a/c867ee) |
-|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Prompt Navigator      | [Click](https://s.trae.ai/a/f364e4) |
-| 🛠️ Utility & Misc              | Project Suggester     | [Click](https://s.trae.ai/a/bf9976) |
-|                                 | Stack Convertor       | [Click](https://s.trae.ai/a/d31236) |
-|                                 | Neural Overclocker    | [Click](https://s.trae.ai/a/ba37f1) |
+| Category | Agent Name | Info | Install |
+| :--- | :--- | :--- | :--- |
+| **🤖 Core Intelligence** | General Coordinator | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence) | [👆 Get It](https://s.trae.ai/a/edd20e) |
+| | Code Optimizer | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence) | [👆 Get It](https://s.trae.ai/a/b0fba2) |
+| | Code Refactorer | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence) | [👆 Get It](https://s.trae.ai/a/dd7edb) |
+| | Dependency Manager | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence) | [👆 Get It](https://s.trae.ai/a/93e6af) |
+| **🖥️ Frontend & UI** | Frontend Expert | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui) | [👆 Get It](https://s.trae.ai/a/85f62b) |
+| | Designer Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui) | [👆 Get It](https://s.trae.ai/a/66c90c) |
+| | WordPress Builder | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui) | [👆 Get It](https://s.trae.ai/a/aa37bc) |
+| **💻 Backend & Architecture** | Backend Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/488daa) |
+| | API Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/5dd5b0) |
+| | Database Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/48f614) |
+| | Low-Level Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/dbf58a) |
+| | Mobile App Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/236410) |
+| | Windows App Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/bd193e) |
+| | Stack Connector | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture) | [👆 Get It](https://s.trae.ai/a/249aeb) |
+| **🫧 Automation, Performance & QA** | ML Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/f5e606) |
+| | Automation Expert | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/6fc0a2) |
+| | Security Sentinel | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/06a73f) |
+| | SEO Strategist | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/99b40d) |
+| | DOC Writer | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/f1c66e) |
+| | Testing Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/1223bc) |
+| | Error Fixer | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/ceefff) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Quantum Debugger | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa) | [👆 Get It](https://s.trae.ai/a/46d5d9) |
+| **🔧 DevOps & Infrastructure** | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> DevOps Expert | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure) | [👆 Get It](https://s.trae.ai/a/459f77) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Performance Profiler | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure) | [👆 Get It](https://s.trae.ai/a/fda019) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Critical Consultant | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure) | [👆 Get It](https://s.trae.ai/a/a4b8fa) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Penetration Tester | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure) | [👆 Get It](https://s.trae.ai/a/1c4710) |
+| **🎮 Game & Modding** | Minecraft Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development) | [👆 Get It](https://s.trae.ai/a/ef01c5) |
+| | FiveM Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development) | [👆 Get It](https://s.trae.ai/a/39261a) |
+| | Roblox Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development) | [👆 Get It](https://s.trae.ai/a/4a3fa4) |
+| | Unity Architect | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development) | [👆 Get It](https://s.trae.ai/a/b00751) |
+| **📊 Analytics & Strategy** | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Copywriter Pro | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy) | [👆 Get It](https://s.trae.ai/a/a80192) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Competitor Scout | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy) | [👆 Get It](https://s.trae.ai/a/cf9376) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Content Strategist | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy) | [👆 Get It](https://s.trae.ai/a/9fa6a4) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Growth Strategist | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy) | [👆 Get It](https://s.trae.ai/a/c867ee) |
+| | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Prompt Navigator | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy) | [👆 Get It](https://s.trae.ai/a/f364e4) |
+| **🛠️ Utility & Misc** | Project Suggester | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc) | [👆 Get It](https://s.trae.ai/a/bf9976) |
+| | Stack Convertor | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc) | [👆 Get It](https://s.trae.ai/a/d31236) |
+| | Neural Overclocker | [ℹ️](https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc) | [👆 Get It](https://s.trae.ai/a/ba37f1) |
 
 ---
 
@@ -97,7 +93,7 @@ Each agent is optimized for a specific language with dedicated prompts and direc
 
 1. Install **TRAE** if you haven’t already.
 2. Open **TRAE**.
-3. Click any link in the list above and the agent will auto-import directly into your IDE.
+3. Click any **"Get It"** link in the list above and the agent will auto-import directly into your IDE.
 
 ---
 
