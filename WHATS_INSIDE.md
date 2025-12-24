@@ -1,6 +1,6 @@
 # 🎯 What's Inside
 
-Questo repository include **agenti altamente specializzati**, ognuno addestrato per uno specifico dominio e ottimizzato per lavorare insieme in flussi multi-agente coordinati.
+This repository includes **highly specialized agents**, each trained for a specific domain and optimized to work together in coordinated multi-agent flows.
 
 ---
 
@@ -58,7 +58,7 @@ Questo repository include **agenti altamente specializzati**, ognuno addestrato 
 
 | Agent | Description |
 | --- | --- |
-| **DevOps Expert** | Deployment automatizzato, CI/CD, cloud infra e monitoring per run affidabili. |
+| **DevOps Expert** | Automated deployment, CI/CD, cloud infrastructure and monitoring for reliable runs. |
 | **Performance Profiler** | Identifies bottlenecks at code and system level and proposes targeted optimizations. |
 | **Critical Consultant** | Provides frank, unbiased advice, highlighting risks and opportunities without sugarcoating. |
 | **Penetration Tester** | Simulates attacks to uncover vulnerabilities and suggest actionable security improvements. |
@@ -80,11 +80,11 @@ Questo repository include **agenti altamente specializzati**, ognuno addestrato 
 
 | Agent | Description |
 | --- | --- |
-| **Copywriter Pro** | Scrive copy persuasivo per landing, email, social, campagne. |
-| **Competitor Scout** | Mappa competitor, strategie e spazi vuoti di mercato. |
-| **Content Strategist** | Propone piani contenuti per blog, social e funnel in base al target. |
-| **Growth Strategist** | Analizza il potenziale del progetto e suggerisce mosse per massimizzare crescita. |
-| **Prompt Navigator** | Trasforma input "umani" in prompt ottimizzati e next steps chiari. |
+| **Copywriter Pro** | Writes persuasive copy for landing pages, emails, social media, and campaigns. |
+| **Competitor Scout** | Competitor map, strategies and market gaps. |
+| **Content Strategist** | It offers content plans for blogs, social media and funnels based on the target audience. |
+| **Growth Strategist** | Analyzes the project's potential and suggests moves to maximize growth. |
+| **Prompt Navigator** | Transform “human” input into optimized prompts and clear next steps. |
 
 ---
 
