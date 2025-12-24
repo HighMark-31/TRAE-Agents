@@ -62,20 +62,20 @@ Perfect for developers, engineers, designers, automation enthusiasts, and tech t
 |                                 | DOC Writer            | [Click](https://s.trae.ai/a/f1c66e) |
 |                                 | Testing Architect     | [Click](https://s.trae.ai/a/1223bc) |
 |                                 | Error Fixer           | [Click](https://s.trae.ai/a/ceefff) |
-|                                 | Quantum Debugger      | [Click](https://s.trae.ai/a/46d5d9) |
-| 🔧 DevOps & Infrastructure      | DevOps Expert         | [Click](https://s.trae.ai/a/459f77) |
-|                                 | Performance Profiler  | [Click](https://s.trae.ai/a/fda019) |
-|                                 | Critical Consultant   | [Click](https://s.trae.ai/a/a4b8fa) |
-|                                 | Penetration Tester    | [Click](https://s.trae.ai/a/1c4710) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Quantum Debugger      | [Click](https://s.trae.ai/a/46d5d9) |
+| 🔧 DevOps & Infrastructure      | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> DevOps Expert         | [Click](https://s.trae.ai/a/459f77) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Performance Profiler  | [Click](https://s.trae.ai/a/fda019) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Critical Consultant   | [Click](https://s.trae.ai/a/a4b8fa) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Penetration Tester    | [Click](https://s.trae.ai/a/1c4710) |
 | 🎮 Game & Modding               | Minecraft Architect   | [Click](https://s.trae.ai/a/ef01c5) |
 |                                 | FiveM Architect       | [Click](https://s.trae.ai/a/39261a) |
 |                                 | Roblox Architect      | [Click](https://s.trae.ai/a/4a3fa4) |
 |                                 | Unity Architect       | [Click](https://s.trae.ai/a/b00751) |
-| 📊 Analytics & Strategy         | Copywriter Pro        | [Click](https://s.trae.ai/a/a80192) |
-|                                 | Competitor Scout      | [Click](https://s.trae.ai/a/cf9376) |
-|                                 | Content Strategist    | [Click](https://s.trae.ai/a/9fa6a4) |
-|                                 | Growth Strategist     | [Click](https://s.trae.ai/a/c867ee) |
-|                                 | Prompt Navigator      | [Click](https://s.trae.ai/a/f364e4) |
+| 📊 Analytics & Strategy         | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Copywriter Pro        | [Click](https://s.trae.ai/a/a80192) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Competitor Scout      | [Click](https://s.trae.ai/a/cf9376) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Content Strategist    | [Click](https://s.trae.ai/a/9fa6a4) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Growth Strategist     | [Click](https://s.trae.ai/a/c867ee) |
+|                                 | <img src="https://cdn-icons-png.flaticon.com/128/4715/4715062.png" height="18" alt="Icon" style="vertical-align: text-bottom;"> Prompt Navigator      | [Click](https://s.trae.ai/a/f364e4) |
 | 🛠️ Utility & Misc              | Project Suggester     | [Click](https://s.trae.ai/a/bf9976) |
 |                                 | Stack Convertor       | [Click](https://s.trae.ai/a/d31236) |
 |                                 | Neural Overclocker    | [Click](https://s.trae.ai/a/ba37f1) |
