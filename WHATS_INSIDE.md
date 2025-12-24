@@ -1,88 +1,85 @@
 # 🎯 What's Inside
 
-This repository includes **fully specialized agents**, each trained for a specific domain and optimized to work together seamlessly.
+Questo repository include **agenti altamente specializzati**, ognuno addestrato per uno specifico dominio e ottimizzato per lavorare insieme in flussi multi-agente coordinati.
 
 ---
 
 ## 🤖 Core Intelligence
 
 | Agent | Description |
-|-------|-------------|
-| **General Coordinator** | Oversees everything, orchestrates multi-agent workflows, ensures completeness & quality. |
-| **Code Optimizer** | Deep code analysis, auto-fixes, performance improvements, refactoring. |
-| **Code Refactorer** | Clean, structured, maintainable rewrite of any messy or outdated codebase. |
-| **Dependency Manager** | Manages, updates, and optimizes project dependencies, ensuring compatibility, performance, and safe upgrades. |
+| --- | --- |
+| **General Coordinator** | Orchestrates multi‑agent workflows, ensures completeness, consistency, and final quality of every task. |
+| **Code Optimizer** | Performs deep code analysis, auto‑fixes, performance tuning, and low‑friction improvements. |
+| **Code Refactorer** | Rewrites messy or legacy code into clean, maintainable, and scalable structures. |
+| **Dependency Manager** | Manages, updates, and optimizes dependencies with safe upgrades and compatibility checks. |
 
 ---
 
 ## 🖥️ Development & Engineering
 
 | Agent | Description |
-|-------|-------------|
-| **Frontend Expert** | HTML, CSS, JS, React, TailwindCSS, Next.js, Astro. |
-| **Backend Architect** | Node.js, Python, REST APIs, backend logic & scaling. |
-| **Database Architect** | SQL & NoSQL schema design, optimization, migrations. |
-| **API Architect** | Python/Node API design, routing, integration & best practices. |
-| **Low-Level Architect** | C, Assembly, binary-level reasoning. |
-| **Mobile App Architect** | Flutter, React Native, Android/iOS workflows. |
-| **Windows App Architect** | Build Windows desktop apps using C#, .NET, WPF, WinUI, and modern Microsoft standards. Perfect for UI, architecture, integration, and full app development. |
-| **Stack Connector** | Bridges backend & frontend logic, ensures perfect API/UI alignment, fixes mismatches, and optimizes data flow across the entire stack. |
-| **Designer Architect** | Expert in UI/UX, design systems, and interactive components, delivering clear, accessible, and developer-ready interface specifications. |
-| **WordPress Builder** | Theme & plugin development, Gutenberg blocks, performance, UX & best practices. |
+| --- | --- |
+| **Frontend Expert** | HTML, CSS, JS, React, TailwindCSS, Next.js, Astro: pixel‑perfect and production‑ready UIs. |
+| **Backend Architect** | Node.js, Python, REST APIs, scaling and backend logic for robust services. |
+| **Database Architect** | SQL/NoSQL schema design, performance tuning, indexing, migrations. |
+| **API Architect** | Designs and optimizes Python/Node APIs, routing, integrations, and best practices. |
+| **Low‑Level Architect** | C, Assembly, binary‑level reasoning for high‑performance or systems programming. |
+| **Mobile App Architect** | Flutter, React Native, Android/iOS flows from prototype to store‑ready apps. |
+| **Windows App Architect** | C#, .NET, WPF, WinUI for modern Windows desktop applications. |
+| **Stack Connector** | Aligns frontend and backend, fixes API/UI mismatches, optimizes data flow end‑to‑end. |
+| **Designer Architect** | UI/UX, design systems, interaction patterns, and developer‑ready interface specs. |
+| **WordPress Builder** | Themes, plugins, Gutenberg, performance optimization, and UX best practices. |
 
 ---
 
 ## 🫧 Automation, Quality & Performance
 
 | Agent | Description |
-|-------|-------------|
-| **ML Architect** | Model creation, training, fine-tuning, evaluation. |
-| **Automation Expert** | Scripts, pipelines, workflow automation. |
-| **Security Sentinel** | Vulnerability checks, security hardening, best practices. |
-| **SEO Strategist** | Technical SEO, content structure, ranking improvements. |
-| **Documentation Writer** | Produces clear, concise, and consistent docs for codebases, APIs, and systems. |
-| **Testing Architect** | Designs unit, integration, and E2E tests to ensure stability, coverage, and prevent regressions. |
-| **Error Fixer** | Detects and fixes code errors across languages and frameworks, ensuring stability and smooth integration. |
+| --- | --- |
+| **ML Architect** | Model design, training, fine‑tuning, and evaluation workflows. |
+| **Automation Expert** | Scripts, pipelines, and workflow automation across tools and environments. |
+| **Security Sentinel** | Vulnerability checks, hardening, and enforcement of security best practices. |
+| **Testing Architect** | Unit, integration, and E2E testing strategies to prevent regressions. |
+| **Error Fixer** | Detects and fixes errors across languages and frameworks for stable builds. |
+| **Performance Profiler** | Identifies bottlenecks at code and system level and proposes targeted optimizations. |
 
 ---
 
 ## 👾 Game & Modding Development
 
-- 🎮 **Minecraft Architect**
-- 🎰 **FiveM Architect**
-- 🎪 **Roblox Architect**
-- ⚙️ **Unity Architect**
+| Agent | Description |
+| --- | --- |
+| 🎮 **Minecraft Architect** | Specialized in Minecraft plugins, mods, and server logic. |
+| 🎰 **FiveM Architect** | Focused on FiveM scripting, server resources, and gameplay systems. |
+| 🎪 **Roblox Architect** | Roblox experiences, systems, and gameplay loops. |
+| ⚙️ **Unity Architect** | Unity projects, components, gameplay scripting, and tooling. |
 
 ---
 
-## 🔧 Miscellaneous
+## 🔧 Specialized & Business Agents
 
-- 📸 **Photo Coder** - Converts images or screenshots into working code, replicating full layouts or specific elements.
-- 💡 **Project Suggester** - Analyzes the project and suggests features, improvements, and optimizations for better workflows.
-- 📋 **Rules Builder** - Creates project rules through guided questions and saves them into `.trae/rules/project_rules.md`.
-- 🔄 **Stack Converter** - Converts projects between different tech stacks, preserving functionality and optimizing for the new environment.
-- ⚡ **Neural Overclocker** - Boosts entry-level AI models to high-level performance, optimizing reasoning, coding, and output quality across all tasks. Idea and credits by [Roman](https://t.me/VibeCodePrompterSystem).
-- 📊 **Data Filler** - Replaces mock content with real, verified data, and adds UI elements when needed.
-- DevOps Expert – Automates deployment, CI/CD pipelines, cloud infrastructure, and monitoring for reliable project operations.
+### 📸 Creation, Conversion & Project Control
 
-Performance Profiler – Analyzes code and system performance to detect bottlenecks and optimize execution.
+- **Photo Coder** – Transforms screenshots or designs into working, production‑grade code.
+- **Project Suggester** – Scans the project and proposes new features, improvements, and optimizations.
+- **Rules Builder** – Genera le regole del progetto tramite Q&A e le salva in `.trae/rules/project_rules.md`.
+- **Stack Converter** – Converte interi progetti tra tech stack diversi, preservando funzionalità.
+- **Neural Overclocker** – Potenzia modelli entry‑level con prompt‑engineering avanzato (idea di Roman).
+- **Data Filler** – Sostituisce mock data con contenuti reali e aggiunge le UI mancanti.
 
-Critical Consultant – Provides frank, unbiased advice, highlighting risks and opportunities without sugarcoating.
+### ⚡ Ops, Strategy & Communication
 
-Chat Summarizer – Condenses entire conversations into clear summaries and guides export to preferred formats.
+- **DevOps Expert** – Deployment automatizzato, CI/CD, cloud infra e monitoring per run affidabili.
+- **Critical Consultant** – Fornisce feedback diretto, individua rischi e opportunità di progetto.
+- **Penetration Tester** – Simula attacchi, trova vulnerabilità e suggerisce remediation concrete.
+- **Growth Strategist** – Analizza il potenziale del progetto e suggerisce mosse per massimizzare crescita.
+- **Competitor Scout** – Mappa competitor, strategie e spazi vuoti di mercato.
 
-Penetration Tester – Simulates attacks to uncover vulnerabilities and suggest actionable security improvements.
+### 📚 Knowledge, Content & Collaboration
 
-Knowledge Synthesizer – Turns documentation, code, and notes into structured, actionable insights.
-
-Copywriter Pro – Generates persuasive copy, taglines, emails, landing pages, and social posts optimized for conversion.
-
-Competitor Scout – Monitors competitors, analyzes strategies, and identifies market opportunities.
-
-Content Strategist – Analyzes target audiences and suggests tailored content ideas for blogs, social, and campaigns.
-
-Growth Strategist – Evaluates projects, estimates value, and provides actionable strategies to maximize growth.
-
-Prompt Navigator – Translates user statements into optimized prompts and guides next steps based on project context.
-
-Quantum Debugger – Predictively analyzes code across threads, anticipating errors and suggesting automatic fixes.
+- **Documentation Writer** – Documentazione chiara e consistente per codebase, API e sistemi.
+- **Chat Summarizer** – Riassume conversazioni e guida l'export in vari formati.
+- **Knowledge Synthesizer** – Converte documenti e codice in insight operativi strutturati.
+- **Copywriter Pro** – Scrive copy persuasivo per landing, email, social, campagne.
+- **Content Strategist** – Propone piani contenuti per blog, social e funnel in base al target.
+- **Prompt Navigator** – Trasforma input "umani" in prompt ottimizzati e next steps chiari.
