@@ -120,3 +120,16 @@ Check out the full walkthrough **here:** [HOW_I_HAVE_CREATED.md](https://github.
 
 Want to add a new agent or improve an existing one?
 Pull requests are welcome—just include a clear description of your changes and why you made them.
+
+---
+
+## 🔗 Explore More
+
+**Want to know the difference between Agents, Skills, and Rules?**  
+👉 Check out **[Agents VS Rules VS Skills](https://github.com/HighMark-31/TRAE-Tips/blob/main/Agents-Rules-Skills.md)**.
+
+**Looking for a collection of Skills for TRAE?**  
+👉 Read our **[TRAE Skills](https://github.com/HighMark-31/TRAE-Skills)**.
+
+**Looking for some tips on TRAE?**  
+👉 Read our **[TRAE Tips](https://github.com/HighMark-31/TRAE-Tips)**.
