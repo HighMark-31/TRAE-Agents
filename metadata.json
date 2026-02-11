@@ -1,0 +1,338 @@
+[
+  {
+    "name": "General Coordinator",
+    "category": "Core Intelligence",
+    "link": "https://s.trae.ai/a/edd20e",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence",
+    "tags": ["core", "management", "coordinator", "planning"]
+  },
+  {
+    "name": "Code Optimizer",
+    "category": "Core Intelligence",
+    "link": "https://s.trae.ai/a/b0fba2",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence",
+    "tags": ["optimization", "code", "performance", "efficiency"]
+  },
+  {
+    "name": "Code Refactorer",
+    "category": "Core Intelligence",
+    "link": "https://s.trae.ai/a/dd7edb",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence",
+    "tags": ["refactoring", "code", "cleanup", "maintenance"]
+  },
+  {
+    "name": "Dependency Manager",
+    "category": "Core Intelligence",
+    "link": "https://s.trae.ai/a/93e6af",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-core-intelligence",
+    "tags": ["dependencies", "packages", "management", "updates"]
+  },
+  {
+    "name": "Frontend Expert",
+    "category": "Frontend & UI",
+    "link": "https://s.trae.ai/a/85f62b",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui",
+    "tags": ["frontend", "ui", "web", "development"]
+  },
+  {
+    "name": "Designer Architect",
+    "category": "Frontend & UI",
+    "link": "https://s.trae.ai/a/66c90c",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui",
+    "tags": ["design", "ui", "ux", "architecture"]
+  },
+  {
+    "name": "WordPress Builder",
+    "category": "Frontend & UI",
+    "link": "https://s.trae.ai/a/aa37bc",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui",
+    "tags": ["wordpress", "cms", "website", "builder"]
+  },
+  {
+    "name": "UX Flow Architect",
+    "category": "Frontend & UI",
+    "link": "https://s.trae.ai/a/bd628d",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-frontend--ui",
+    "tags": ["ux", "flow", "user-experience", "design"]
+  },
+  {
+    "name": "Backend Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/488daa",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["backend", "architecture", "server", "api"]
+  },
+  {
+    "name": "API Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/5dd5b0",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["api", "rest", "graphql", "integration"]
+  },
+  {
+    "name": "Database Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/48f614",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["database", "sql", "nosql", "schema"]
+  },
+  {
+    "name": "Low-Level Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/dbf58a",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["low-level", "systems", "c", "rust"]
+  },
+  {
+    "name": "Mobile App Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/236410",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["mobile", "ios", "android", "app"]
+  },
+  {
+    "name": "Windows App Architect",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/bd193e",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["windows", "desktop", "application", "win32"]
+  },
+  {
+    "name": "Stack Connector",
+    "category": "Backend & Architecture",
+    "link": "https://s.trae.ai/a/249aeb",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-backend--architecture",
+    "tags": ["fullstack", "integration", "connection", "glue-code"]
+  },
+  {
+    "name": "ML Architect",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/f5e606",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["ml", "ai", "machine-learning", "data"]
+  },
+  {
+    "name": "Automation Expert",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/6fc0a2",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["automation", "scripts", "workflows", "ci-cd"]
+  },
+  {
+    "name": "Security Sentinel",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/06a73f",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["security", "audit", "protection", "vulnerabilities"]
+  },
+  {
+    "name": "SEO Strategist",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/99b40d",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["seo", "marketing", "optimization", "ranking"]
+  },
+  {
+    "name": "DOC Writer",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/f1c66e",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["documentation", "writing", "technical-writing", "manuals"]
+  },
+  {
+    "name": "Accessibility Audit",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/6b87e1",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["accessibility", "audit", "compliance", "a11y"]
+  },
+  {
+    "name": "Testing Architect",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/1223bc",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["testing", "qa", "unit-tests", "integration-tests"]
+  },
+  {
+    "name": "Error Fixer",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/ceefff",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["debugging", "errors", "fixes", "troubleshooting"]
+  },
+  {
+    "name": "Quantum Debugger",
+    "category": "Automation, Performance & QA",
+    "link": "https://s.trae.ai/a/46d5d9",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-automation-performance--qa",
+    "tags": ["debugging", "advanced", "complex-issues", "analysis"]
+  },
+  {
+    "name": "DevOps Expert",
+    "category": "DevOps & Infrastructure",
+    "link": "https://s.trae.ai/a/459f77",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure",
+    "tags": ["devops", "infrastructure", "cloud", "deployment"]
+  },
+  {
+    "name": "Performance Profiler",
+    "category": "DevOps & Infrastructure",
+    "link": "https://s.trae.ai/a/fda019",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure",
+    "tags": ["performance", "profiling", "speed", "optimization"]
+  },
+  {
+    "name": "Critical Consultant",
+    "category": "DevOps & Infrastructure",
+    "link": "https://s.trae.ai/a/a4b8fa",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure",
+    "tags": ["consulting", "critical-systems", "reliability", "architecture"]
+  },
+  {
+    "name": "Penetration Tester",
+    "category": "DevOps & Infrastructure",
+    "link": "https://s.trae.ai/a/1c4710",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-devops--infrastructure",
+    "tags": ["security", "pentesting", "hacking", "audit"]
+  },
+  {
+    "name": "Minecraft Architect",
+    "category": "Game & Modding",
+    "link": "https://s.trae.ai/a/ef01c5",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development",
+    "tags": ["minecraft", "modding", "java", "game"]
+  },
+  {
+    "name": "FiveM Architect",
+    "category": "Game & Modding",
+    "link": "https://s.trae.ai/a/39261a",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development",
+    "tags": ["fivem", "gta", "lua", "modding"]
+  },
+  {
+    "name": "Roblox Architect",
+    "category": "Game & Modding",
+    "link": "https://s.trae.ai/a/4a3fa4",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development",
+    "tags": ["roblox", "lua", "game", "scripting"]
+  },
+  {
+    "name": "Unity Architect",
+    "category": "Game & Modding",
+    "link": "https://s.trae.ai/a/b00751",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-game--modding-development",
+    "tags": ["unity", "c#", "game", "3d"]
+  },
+  {
+    "name": "Game Mechanics Advisor",
+    "category": "Game & Modding",
+    "link": "https://s.trae.ai/a/e6cec2",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["game-design", "mechanics", "gameplay", "balance"]
+  },
+  {
+    "name": "Copywriter Pro",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/a80192",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["copywriting", "content", "marketing", "text"]
+  },
+  {
+    "name": "Competitor Scout",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/cf9376",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["analysis", "competitors", "market", "research"]
+  },
+  {
+    "name": "Content Strategist",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/9fa6a4",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["content", "strategy", "planning", "marketing"]
+  },
+  {
+    "name": "Growth Strategist",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/c867ee",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["growth", "marketing", "user-acquisition", "scaling"]
+  },
+  {
+    "name": "Prompt Navigator",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/f364e4",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["prompt-engineering", "llm", "ai", "optimization"]
+  },
+  {
+    "name": "Product Strategist",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/37f0f8",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-analytics--strategy",
+    "tags": ["product", "management", "strategy", "roadmap"]
+  },
+  {
+    "name": "Launch Strategist",
+    "category": "Analytics & Strategy",
+    "link": "https://s.trae.ai/a/0c4f4b",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["launch", "go-to-market", "strategy", "release"]
+  },
+  {
+    "name": "Showcase Booster",
+    "category": "Showcase & MVP Acceleration",
+    "link": "https://s.trae.ai/a/d14e90",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["showcase", "presentation", "demo", "pitch"]
+  },
+  {
+    "name": "Demo Enhancer",
+    "category": "Showcase & MVP Acceleration",
+    "link": "https://s.trae.ai/a/fb8588",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["demo", "presentation", "visuals", "enhancement"]
+  },
+  {
+    "name": "MVP Polisher",
+    "category": "Showcase & MVP Acceleration",
+    "link": "https://s.trae.ai/a/a74418",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["mvp", "polish", "refinement", "product"]
+  },
+  {
+    "name": "Instant Deploy Advisor",
+    "category": "Showcase & MVP Acceleration",
+    "link": "https://s.trae.ai/a/95d528",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#-showcase--mvp-acceleration",
+    "tags": ["deployment", "hosting", "cloud", "speed"]
+  },
+  {
+    "name": "Project Suggester",
+    "category": "Utility & Misc",
+    "link": "https://s.trae.ai/a/bf9976",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc",
+    "tags": ["ideas", "brainstorming", "projects", "suggestions"]
+  },
+  {
+    "name": "Stack Convertor",
+    "category": "Utility & Misc",
+    "link": "https://s.trae.ai/a/d31236",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc",
+    "tags": ["migration", "tech-stack", "conversion", "refactor"]
+  },
+  {
+    "name": "Neural Overclocker",
+    "category": "Utility & Misc",
+    "link": "https://s.trae.ai/a/ba37f1",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc",
+    "tags": ["optimization", "ai", "performance", "tuning"]
+  },
+  {
+    "name": "Legacy Surgeon",
+    "category": "Utility & Misc",
+    "link": "https://s.trae.ai/a/d31233",
+    "details": "https://github.com/HighMark-31/TRAE-Agents/blob/main/WHATS_INSIDE.md#%EF%B8%8F-utility--misc",
+    "tags": ["legacy-code", "refactoring", "maintenance", "update"]
+  }
+]
