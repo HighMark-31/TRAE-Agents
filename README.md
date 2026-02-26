@@ -20,9 +20,11 @@ Perfect for developers, engineers, designers, automation enthusiasts, and tech t
 
 <div align="center">
   
-### 🧧 **Happy Chinese New Year!** 🏮
-In honor of the Lunar New Year, **HighMark [ Marco N. ]** is proud to offer the exclusive **TRAE Agents CN** collection! 🇨🇳
-Explore the new "Install CN Only" column below to get started with these specialized agents. 🚀
+### 💸 **Not Happy with TRAE’s Billing Changes?**
+Using too many credits after the update? ⚠️  
+
+Switch to the **[TRAE Credit Optimizer Agent](https://s.trae.ai/a/3e66a8)**  
+Built to reduce unnecessary tool calls and reasoning — so you use fewer credits without losing performance.
 
 </div>
 
