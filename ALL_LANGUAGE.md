@@ -20,6 +20,8 @@ These agents provide **maximum accuracy**, strict best practices, and language-s
 
 * **[Java Architect](https://s.trae.ai/a/564245)**
 * **[Kotlin Architect](https://s.trae.ai/a/481fc4)**
+* **[LUA Architect](https://s.trae.ai/a/af1c5c)**
+
 
 ## 🐍 **Python**
 
