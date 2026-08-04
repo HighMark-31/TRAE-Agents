@@ -1,10 +1,4 @@
-<div align="center">
-
-### ✨ The Ultimate AI Agent Ecosystem for Modern Development ✨
-
-</div>
-
-# [TRAE](https://www.trae.ai/) Agents Collection
+# TRAE Agents Collection
 
 ***The Largest, Most Complete, and Popular Collection of TRAE Agents.***
 
@@ -13,20 +7,40 @@ These agents act as real specialists, capable of generating code, fixing issues,
 
 Perfect for developers, engineers, designers, automation enthusiasts, and tech teams seeking **speed, precision, and expert-level assistance** in a single click.
 
-
 [![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Agents/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Agents)
 
 ---
 
-<div align="center">
-  
-### 💸 **Not Happy with TRAE’s Billing Changes?**
-Using too many credits after the update? ⚠️  
+## ⚠️ IMPORTANT ANNOUNCEMENT
 
-Switch to the **[TRAE Credit Optimizer Agent](https://s.trae.ai/a/3e66a8)**  
-Built to reduce unnecessary tool calls and reasoning — so you use fewer credits without losing performance.
+**I NO LONGER SUPPORT TRAE OR THE TRAE TEAM.**
 
-</div>
+After careful consideration and witnessing the platform's rapid decline, I have decided to **discontinue all support for TRAE** and redirect my efforts to **YecoAI** - my own AI startup where transparency and community trust are our core values.
+
+### Why I Left TRAE:
+
+- 💰 **Unacceptable Billing Practices**: The change from $3 to $1 per request is a joke. It essentially means "try less than 1 prompt" - completely unsustainable for serious developers.
+- 🔇 **Complete Radio Silence**: The TRAE.AI Discord account is no longer managed by the TRAE Team. Fei has stopped checking chats, replying, or creating events.
+- 🤝 **Enterprise Abandonment**: BytePlus for TRAE Enterprise simply doesn't reply to inquiries anymore.
+- 🚫 **Model Stagnation**: No new models have been released for EU users since June 6. They've also severely limited access to CN models.
+- 📉 **The End of Sustainability**: Literally the end of TRAE as a viable platform.
+
+**This is the proof that TRAE is no longer sustainable.** When a company shows such blatant disregard for its user base and fails to maintain basic communication, it's time to move on.
+
+---
+
+## 🚀 Where to Go Next?
+
+### 👉 **Switch to [YecoAI](https://yecoai.com)** - *My AI Startup*
+
+**Why YecoAI?**
+- ✅ Transparent and fair pricing
+- ✅ Active community engagement
+- ✅ Regular model updates
+- ✅ Enterprise-grade support that actually responds
+- ✅ Built with developers in mind
+
+**This repository will remain available as a reference**, but I will no longer update agents, fix issues, or provide support for TRAE. All my future work will be focused on building the best AI development platform at YecoAI.
 
 ---
 
@@ -107,7 +121,7 @@ Each agent is optimized for a specific language with dedicated prompts and direc
 
 ## ⚙️ Installation (Super Easy)
 
-1. Install **TRAE** if you haven’t already.
+1. Install **TRAE** if you haven't already.
 2. Open **TRAE**.
 3. Click any **"Get It"** link in the list above and the agent will auto-import directly into your IDE.
 
@@ -120,10 +134,18 @@ Check out the full walkthrough **here:** [HOW_I_HAVE_CREATED.md](https://github.
 
 ---
 
-## Contributing
+## 📅 Repository Status
 
-Want to add a new agent or improve an existing one?
-Pull requests are welcome—just include a clear description of your changes and why you made them.
+| Status | Details |
+|--------|---------|
+| **Maintenance** | ❌ **DISCONTINUED** |
+| **Support** | ❌ No support for TRAE |
+| **Updates** | ❌ No future updates |
+| **New Agents** | ❌ No new agents for TRAE |
+| **Issues** | ❌ Not monitored |
+| **PRs** | ❌ Not accepted for TRAE |
+| **Reference** | ✅ Repository remains available |
+| **Forking** | ✅ Allowed and encouraged |
 
 ---
 
@@ -137,3 +159,15 @@ Pull requests are welcome—just include a clear description of your changes and
 
 **Looking for some tips on TRAE?**  
 👉 Read our **[TRAE Tips](https://github.com/HighMark-31/TRAE-Tips)**.
+
+---
+
+## 🚀 Switch to a Better Future
+
+### 👉 **[YecoAI](https://yecoai.com)** - Built with Transparency, Trust, and Developers in Mind
+
+---
+
+**Last Updated: 2026**
+
+*This repository is closed. TRAE is no longer sustainable. Join us at YecoAI for a better AI development experience.*
